@@ -1,3 +1,23 @@
+#AutoCodeRover is not my project.
+
+@inproceedings{zhang2024autocoderover,
+    author = {Zhang, Yuntong and Ruan, Haifeng and Fan, Zhiyu and Roychoudhury, Abhik},
+    title = {AutoCodeRover: Autonomous Program Improvement},
+    year = {2024},
+    isbn = {9798400706127},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3650212.3680384},
+    doi = {10.1145/3650212.3680384},
+    booktitle = {Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis},
+    pages = {1592–1604},
+    numpages = {13},
+    keywords = {automatic program repair, autonomous software engineering, autonomous software improvement, large language model},
+    location = {Vienna, Austria},
+    series = {ISSTA 2024}
+}
+
+
 # AutoCodeRover - AI Code Review Agent
 
 An intelligent code review assistant powered by OpenAI's GPT-4. This tool helps developers by providing automated code reviews and generating meaningful commit messages.
