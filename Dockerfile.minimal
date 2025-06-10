@@ -10,7 +10,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Set environment variables
-ENV OPENAI_KEY=""
+ENV OPENAI_KEY="sk-test-key-for-demonstration"
 
 # Command to run when starting the container
 CMD ["python", "main.py"] 
